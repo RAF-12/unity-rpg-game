@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # This .gitignore file should be placed at the root of your Unity project directory
 #
 # Get latest from https://github.com/github/gitignore/blob/main/Unity.gitignore
@@ -6,12 +7,15 @@
 # See: https://github.com/github/gitignore/tree/main/Global
 #
 .utmp/
+=======
+>>>>>>> 06794ab (Primer commit: Estructura limpia del RPG en Unity)
 /[Ll]ibrary/
 /[Tt]emp/
 /[Oo]bj/
 /[Bb]uild/
 /[Bb]uilds/
 /[Ll]ogs/
+<<<<<<< HEAD
 /[Uu]ser[Ss]ettings/
 *.log
 
@@ -104,3 +108,29 @@ InitTestScene*.unity*
 
 # Auto-generated cache in Assets folder
 /[Aa]ssets/[Ss]ceneDependencyCache*
+=======
+/[Uu]serSettings/
+/[Mm]emoryCaptures/
+
+# Visual Studio cache directories
+.vs/
+.suo
+.user
+.userprefs
+.unityproj
+*.sln
+*.csproj
+*.pidb
+*.suo
+*.user
+*.userprefs
+*.unityproj
+
+# Unity Generated File
+/*.csproj
+/*.sln
+/*.suo
+/*.unityproj
+/*.user
+/*.userprefs
+>>>>>>> 06794ab (Primer commit: Estructura limpia del RPG en Unity)
